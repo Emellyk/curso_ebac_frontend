@@ -1,6 +1,5 @@
 # curso_ebac_frontend
 
-EXERCÍCIOS FRONTEND
+EXERCÍCIO FRONTEND
 - Formulário de cadastro
-- Portal de Noticias
-- Validação numérica com javascript
+
